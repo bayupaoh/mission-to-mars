@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "741270504039",
+    "firebase_url": "https://friendlychat-5bc76.firebaseio.com",
+    "project_id": "friendlychat-5bc76",
+    "storage_bucket": "friendlychat-5bc76.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:741270504039:android:353db9767bc0463d",
+        "android_client_info": {
+          "package_name": "com.github.bayupaoh.smartlamp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "741270504039-sdv8qin14t7emdl343jcmkn4e28khls6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.github.bayupaoh.smartlamp",
+            "certificate_hash": "94f738bb9d87b748691276511359836ed4b2cc34"
+          }
+        },
+        {
+          "client_id": "741270504039-orglicuj3tqj10b7v288luv3tb0j06nl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuoXh_TbiS2E4Gi9iEZ09Rg9t0TVdrSeQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "741270504039-orglicuj3tqj10b7v288luv3tb0j06nl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:741270504039:android:b5d75907de594a2d",
+        "android_client_info": {
+          "package_name": "com.google.firebase.codelab.friendlychat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "741270504039-vfd3rss3sq85kn07h2vs6k53jhcvhvf2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.google.firebase.codelab.friendlychat",
+            "certificate_hash": "ec213af973bbb758b5cbba37ae00616842155939"
+          }
+        },
+        {
+          "client_id": "741270504039-orglicuj3tqj10b7v288luv3tb0j06nl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuoXh_TbiS2E4Gi9iEZ09Rg9t0TVdrSeQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "741270504039-orglicuj3tqj10b7v288luv3tb0j06nl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
